@@ -10,3 +10,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <App />
   </BrowserRouter>
 )
+
+
+// cambios en la página
+let patata = "tomate";
+console.log("todo bien")
