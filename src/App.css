@@ -2,3 +2,15 @@
   text-align: center;
 }
 
+.dark-theme {
+  background-color: rgb(29, 29, 29);
+  color: white;
+  min-height: 100vh;
+}
+
+
+.light-theme {
+  background-color: rgb(231, 231, 231);
+  color: black;
+  min-height: 100vh;
+}
